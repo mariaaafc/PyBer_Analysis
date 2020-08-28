@@ -7,8 +7,8 @@ The purpose of this project is to perform an exploratory analysis for a ride-sha
 
 While rural cities have the lowest amount of total rides and drivers of the 3 city times, it also has the highest average fare per ride as well as highest average fare per driver. In contrast, urban cities have the highest amount of total rides and drivers, but the lowest average fare per ride and average fare per driver. Of note, urban cities have almost 10x the total fares that rural cities do. This due to the fact that although fares are less expensive in urban areas, there are significantly more riders, as well as greater driver availability.
 
-![Table](FareTable.png)
-![Figure](PyBer_Challengefigure.png)
+![Fare Info](FareTable.png)
+![Figure](PyBer_Challenge figure.png)
 
 ## Summary
 
